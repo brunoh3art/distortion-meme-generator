@@ -1,0 +1,7 @@
+distortedFrames/*
+frames/*
+result/*
+Final.mp4
+Final.mkv
+yarn.lock
+node_modules/
