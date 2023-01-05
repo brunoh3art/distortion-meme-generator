@@ -3,7 +3,7 @@
 ## Description
 This is a Node.js project that uses ImageMagick and FFmpeg to create distortion in videos and turn them into memes. The project applies a liquid-rescale effect and uses FFmpeg to create a robotic voice effect.
 
-<p>Check out an example of the final result on YouTube: <br/><a href="http://nodejs.org" target="_blank">https://www.youtube.com/shorts/rUyXfrabcE4</a><p>
+<p>Check out an example of the final result on YouTube: <br/><a href="https://www.youtube.com/shorts/rUyXfrabcE4" target="_blank">https://www.youtube.com/shorts/rUyXfrabcE4</a><p>
 
 
 ## Installation
